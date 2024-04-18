@@ -1,0 +1,107 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "b42777e49240e622b249c2d78439c0cdf059332c952eb57d06b176abda47c3a5",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Build/Products",
+          "derivedDataPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Build/Intermediates.noindex/Previews/iphonesimulator/WarCardGame/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Build/Intermediates.noindex/Previews/iphonesimulator/WarCardGame/Intermediates.noindex",
+              "SYMROOT" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Build/Intermediates.noindex/Previews/iphonesimulator/WarCardGame/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "C9F30A98-D3EA-4CCD-99B8-BBD7DC83C568",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Build/Products",
+      "derivedDataPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "C9F30A98-D3EA-4CCD-99B8-BBD7DC83C568",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

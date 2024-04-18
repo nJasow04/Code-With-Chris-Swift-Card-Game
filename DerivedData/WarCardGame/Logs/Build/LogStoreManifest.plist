@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>DD11EC6D-D17A-406E-A10B-0BEA1864A820</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DD11EC6D-D17A-406E-A10B-0BEA1864A820.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WarCardGame project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WarCardGame</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews WarCardGame</string>
+			<key>timeStartedRecording</key>
+			<real>735096389.324633</real>
+			<key>timeStoppedRecording</key>
+			<real>735096394.14303505</real>
+			<key>title</key>
+			<string>Build for Previews WarCardGame</string>
+			<key>uniqueIdentifier</key>
+			<string>DD11EC6D-D17A-406E-A10B-0BEA1864A820</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/Build/Intermediates.noindex/WarCardGame.build/Debug-iphonesimulator/WarCardGame.build/Objects-normal/arm64/WarCardGame-master.d",
+    "diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/Build/Intermediates.noindex/WarCardGame.build/Debug-iphonesimulator/WarCardGame.build/Objects-normal/arm64/WarCardGame-master.dia",
+    "emit-module-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/Build/Intermediates.noindex/WarCardGame.build/Debug-iphonesimulator/WarCardGame.build/Objects-normal/arm64/WarCardGame-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/Build/Intermediates.noindex/WarCardGame.build/Debug-iphonesimulator/WarCardGame.build/Objects-normal/arm64/WarCardGame-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/Build/Intermediates.noindex/WarCardGame.build/Debug-iphonesimulator/WarCardGame.build/Objects-normal/arm64/WarCardGame-master.swiftdeps"
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/DerivedData/WarCardGame/Index.noindex/Build/Intermediates.noindex/WarCardGame.build/Debug-iphonesimulator/WarCardGame.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/ContentView.swift" : {
+
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/WarCardGameApp.swift" : {
+
+  }
+}

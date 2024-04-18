@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'WarCardGame' in project 'WarCardGame' (no dependencies)
+Target 'WarCardGame' in project 'WarCardGame' (no dependencies)
