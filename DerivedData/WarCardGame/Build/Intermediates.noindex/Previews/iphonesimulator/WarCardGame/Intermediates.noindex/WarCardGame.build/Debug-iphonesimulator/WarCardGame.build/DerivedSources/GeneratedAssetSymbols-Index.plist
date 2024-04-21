@@ -5,7 +5,208 @@
 	<key>colors</key>
 	<array/>
 	<key>images</key>
-	<array/>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBack</string>
+			<key>relativePath</key>
+			<string>./back.imageset</string>
+			<key>swiftSymbol</key>
+			<string>back</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBackgroundCloth</string>
+			<key>relativePath</key>
+			<string>./background-cloth.imageset</string>
+			<key>swiftSymbol</key>
+			<string>backgroundCloth</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBackgroundPlain</string>
+			<key>relativePath</key>
+			<string>./background-plain.imageset</string>
+			<key>swiftSymbol</key>
+			<string>backgroundPlain</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBackgroundWoodCartoon</string>
+			<key>relativePath</key>
+			<string>./background-wood-cartoon.imageset</string>
+			<key>swiftSymbol</key>
+			<string>backgroundWoodCartoon</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBackgroundWoodGrain</string>
+			<key>relativePath</key>
+			<string>./background-wood-grain.imageset</string>
+			<key>swiftSymbol</key>
+			<string>backgroundWoodGrain</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameButton</string>
+			<key>relativePath</key>
+			<string>./button.imageset</string>
+			<key>swiftSymbol</key>
+			<string>button</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard10</string>
+			<key>relativePath</key>
+			<string>./card10.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card10</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard11</string>
+			<key>relativePath</key>
+			<string>./card11.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card11</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard12</string>
+			<key>relativePath</key>
+			<string>./card12.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card12</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard13</string>
+			<key>relativePath</key>
+			<string>./card13.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card13</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard14</string>
+			<key>relativePath</key>
+			<string>./card14.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card14</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard2</string>
+			<key>relativePath</key>
+			<string>./card2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard3</string>
+			<key>relativePath</key>
+			<string>./card3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard4</string>
+			<key>relativePath</key>
+			<string>./card4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card4</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard5</string>
+			<key>relativePath</key>
+			<string>./card5.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card5</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard6</string>
+			<key>relativePath</key>
+			<string>./card6.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card6</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard7</string>
+			<key>relativePath</key>
+			<string>./card7.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card7</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard8</string>
+			<key>relativePath</key>
+			<string>./card8.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card8</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCard9</string>
+			<key>relativePath</key>
+			<string>./card9.imageset</string>
+			<key>swiftSymbol</key>
+			<string>card9</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/WarCardGame/WarCardGame/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLogo</string>
+			<key>relativePath</key>
+			<string>./logo.imageset</string>
+			<key>swiftSymbol</key>
+			<string>logo</string>
+		</dict>
+	</array>
 	<key>symbols</key>
 	<array/>
 </dict>

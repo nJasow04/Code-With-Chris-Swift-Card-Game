@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>DD11EC6D-D17A-406E-A10B-0BEA1864A820</key>
+		<key>0084E191-5078-4144-9E47-32287F1F539A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DD11EC6D-D17A-406E-A10B-0BEA1864A820.xcactivitylog</string>
+			<string>0084E191-5078-4144-9E47-32287F1F539A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,13 +40,13 @@
 			<key>signature</key>
 			<string>Build for Previews WarCardGame</string>
 			<key>timeStartedRecording</key>
-			<real>735096389.324633</real>
+			<real>735358264.524351</real>
 			<key>timeStoppedRecording</key>
-			<real>735096394.14303505</real>
+			<real>735358264.71332002</real>
 			<key>title</key>
 			<string>Build for Previews WarCardGame</string>
 			<key>uniqueIdentifier</key>
-			<string>DD11EC6D-D17A-406E-A10B-0BEA1864A820</string>
+			<string>0084E191-5078-4144-9E47-32287F1F539A</string>
 		</dict>
 	</dict>
 </dict>
